@@ -1,0 +1,100 @@
+{
+    "name": "Welcome",
+    "description": "Hover over nodes to see detail. Click blue nodes to expand.",
+    "children": [{
+        "name": "Resume",
+        "description": "Resume",
+        "size": 120000,
+        "link": "../pdf/Alex-Francis-Resume-August-2015.pdf",
+        "imageURL": "../images/resume.png"
+    }, {
+        "name": "Contact Me",
+        "description": "Contact Me",
+        "children": [{
+            "name": "LinkedIn",
+            "description": "Visit my LinkedIn profile!",
+            "size": 120000,
+            "link": "https://www.linkedin.com/in/afrancis13",
+            "imageURL": "../images/linkedin.svg"
+        }, {
+            "name": "Telephone",
+            "description": "My telephone number is (608) 338 - 3506. Looking forward to connecting!",
+            "size": 120000,
+            "imageURL": "../images/phone.png"
+        }, {
+            "name": "GitHub",
+            "description": "Sometimes I write code and put it here.",
+            "size": 120000,
+            "link": "https://github.com/afrancis13",
+            "imageURL": "../images/github.png"
+        }, {
+            "name": "Email",
+            "description": "You can shoot me an email at alexander.d.francis@gmail.com.",
+            "size": 120000,
+            "link": "mailto:alexander.d.francis@gmail.com",
+            "imageURL": "../images/email.png"
+        }]
+    }, {
+        "name": "Internship Projects",
+        "description": "Internship Projects",
+        "children": [{
+            "name": "Clinical Anatomy",
+            "description": "Division of Clinical Anatomy at Stanford University, Summer 2012",
+            "size": 120000,
+            "link": "html/stanford.html",
+            "imageURL": "../images/stanford.png"
+        }, {
+            "name": "FDA Approval",
+            "description": "Auxogyn, Summer 2013",
+            "size": 120000,
+            "link": "html/auxogyn.html",
+            "imageURL": "../images/progyny.png"
+        }, {
+            "name": "PIX Analytics",
+            "description": "PIX System, Summer 2014",
+            "size": 120000,
+            "link": "html/pix.html",
+            "imageURL": "../images/pix.png"
+        }, {
+            "name": "Elasticsearch",
+            "description": "KPCB Fellows Program & BetterWorks, Summer 2015",
+            "size": 120000,
+            "link": "html/betterworks.html",
+            "imageURL": "../images/betterworks.png"
+        }]
+    }, {
+        "name": "Academic Projects",
+        "description": "Academic Projects",
+        "children": [{
+            "name": "Trip Finder",
+            "description": "Trip Finder (Data Structures)",
+            "size": 120000,
+            "link": "html/tripfinder.html",
+            "imageURL": "../images/trip.png"
+        }, {
+            "name": "PacMan Solvers",
+            "description": "PacMan Solvers (Artificial Intelligence)",
+            "size": 120000,
+            "link": "html/pacman.html",
+            "imageURL": "../images/pacman.png"
+        }, {
+            "name": "MapReduce",
+            "description": "MapReduce (Great Ideas in Computer Architecture)",
+            "size": 120000,
+            "link": "html/mapreduce.html",
+            "imageURL": "../images/spark.png"
+        }, {
+            "name": "Build a CPU",
+            "description": "Build a CPU (Great Ideas in Computer Architecture)",
+            "size": 120000,
+            "link": "html/cpu.html",
+            "imageURL": "../images/cpu.png"
+        }, {
+            "name": "AMPLab",
+            "description": "EECS Honors Degree Program & AMPLab (Research)",
+            "size": 120000,
+            "link": "html/amplab.html",
+            "imageURL": "../images/amp.png"
+        }]
+    }]
+}
